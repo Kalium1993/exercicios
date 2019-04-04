@@ -3,7 +3,7 @@ package exercicios;
 import java.util.Scanner;
 /*
 	
-	imprimir array por intervalos sequênciais, separadamente
+	imprimir array por intervalos sequênciais, separadamente.
 	
  */
 public class ex3 {
