@@ -1,7 +1,11 @@
 package exercicios;
 
 import java.util.Scanner;
-
+/*
+	
+	imprimir array por intervalos sequênciais, separadamente
+	
+ */
 public class ex3 {
 	public static void main(String[] args) {
 		Scanner kb = new Scanner(System.in);
